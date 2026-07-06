@@ -1,0 +1,22 @@
+{
+  "wheel_id": 93,
+  "slug": "bendigohomeloanbroker-103",
+  "project": "home-loan-broker-bendigo-buyer-tips-b-103",
+  "parent_t1_ref": "bendigohomeloanbroker-001",
+  "node_role": "feeder",
+  "money_target": "bendigohomeloanbroker.com.au",
+  "primary_kw": "home loan broker bendigo buyer tips",
+  "intended_url": "https://home-loan-broker-bendigo-buyer-tips-b-103.onrender.com/",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/home-loan-broker-bendigo-b-150/index.html",
+      "anchor": "home loan broker bendigo",
+      "rel": "follow"
+    },
+    {
+      "target_url": "https://aumedia.neocities.org/home-loan-broker-bendigo-b-150/index.html",
+      "anchor": "home loan broker bendigo",
+      "rel": "follow"
+    }
+  ]
+}
